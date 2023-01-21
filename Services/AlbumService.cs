@@ -11,16 +11,16 @@ namespace album_api.Services
         {
             Albums = new List<Album>
             {
-            new Album { Id = 1, Artist = "Michael Jackson", Title = "Thriller", Price = 161.99 },
-            new Album { Id = 2, Artist = "Michael Jackson", Title = "Invicible", Price = 111.58},
-            new Album { Id = 3, Artist = "Nirvana", Title = "Nevermind", Price = 145.00 },
-            new Album { Id = 4, Artist = "Nirvana", Title = "In Utero", Price = 148.99},
-            new Album { Id = 5, Artist = "Slayer", Title = "Hell Await", Price = 162.99},
-            new Album { Id = 6, Artist = "Metallica", Title = "Metallica", Price = 154.42},
-            new Album { Id = 7, Artist = "Metallica", Title = "Undisputed Attitude", Price = 199.98},
-            new Album { Id = 8, Artist = "Slayer", Title = "Diabolus In Musica", Price = 199.98},
-            new Album { Id = 9, Artist = "Sepultura", Title = "Schizophrenia", Price = 140.9},
-            new Album { Id = 10, Artist = "Dream Theater", Title = "Octavarium", Price = 42.67}
+            new Album { Id = 1, Artist = "Michael Jackson", Title = "Thriller", Price = 161.99m },
+            new Album { Id = 2, Artist = "Michael Jackson", Title = "Invicible", Price = 111.58m},
+            new Album { Id = 3, Artist = "Nirvana", Title = "Nevermind", Price = 145.00m },
+            new Album { Id = 4, Artist = "Nirvana", Title = "In Utero", Price = 148.99m},
+            new Album { Id = 5, Artist = "Slayer", Title = "Hell Await", Price = 162.99m},
+            new Album { Id = 6, Artist = "Metallica", Title = "Metallica", Price = 154.42m},
+            new Album { Id = 7, Artist = "Metallica", Title = "Undisputed Attitude", Price = 199.98m},
+            new Album { Id = 8, Artist = "Slayer", Title = "Diabolus In Musica", Price = 199.98m},
+            new Album { Id = 9, Artist = "Sepultura", Title = "Schizophrenia", Price = 140.9m},
+            new Album { Id = 10, Artist = "Dream Theater", Title = "Octavarium", Price = 42.67m}
             };
         }
 
